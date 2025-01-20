@@ -1,0 +1,12 @@
+{
+    "name": "Weather Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "This extension will show the weather of location",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "logo.png"
+        }
+    }
+}

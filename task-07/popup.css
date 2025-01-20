@@ -1,0 +1,78 @@
+body {
+    border: 3px solid black;
+    margin: 0;
+    width: 300px; 
+    text-align: center;
+    background: url('baa.png') no-repeat center center/cover;
+    color: black;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+}
+
+p {
+    font-size: 30px;
+    margin-bottom: 0px 0px 50px;
+    
+    position: fixed;
+    bottom: 290px;
+    left :13%;
+}
+
+#place {
+    font-size: 25px;
+    margin: 0px 0 10px;
+    
+
+}
+
+#temp {
+    font-size: 50px;
+    margin: 15px 0;
+    
+}
+
+#condition {
+    font-size: 20px;
+    margin: 5px 0;
+    
+}
+
+
+.container {
+    display: flex;
+    
+    gap:10px;
+    position: fixed; 
+    bottom: 20px;
+    left :5%;
+}
+
+input[type="text"] {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 15px;
+    width: 200px;
+    font-size: 16px;
+}
+
+button {
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left :5 px;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:before {
+    content: '🔎';
+    font-size: 18px;
+}
