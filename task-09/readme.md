@@ -144,9 +144,9 @@ First, we need to install Rust and Rustup, the toolchain installer for Rust.
    cargo run
    ```
 
-## Instructions
+# Instructions
 
-As of now by running the command `cargo run` you are going to see tomany errors, to resolve those errors you should follow this
+As of now, running the command `cargo run` will result in many errors. To resolve these errors, you should follow the steps below.
 
 #### Steps
 
@@ -162,7 +162,7 @@ As of now by running the command `cargo run` you are going to see tomany errors,
        cd src
    ```
 
-3. Open `gdt.rs` file and select all (`control+a`) delete all the code, then cleck on this link => [gdt.rs_code](https://github.com/wavexnani/amFOSS-tasks/blob/main/task-09/src/gdt.rs). select this code and past it in `gdt.rs` folder
+3. Open `gdt.rs` file and select all (`ctrl+A`), and delete it. Then click on this link:[gdt.rs_code](https://github.com/wavexnani/amFOSS-tasks/blob/main/task-09/src/gdt.rs).Copy the code from the link and paste it into the `gdt.rs` file.
 
 4. Do the same for all other folders . Here are the links
 
@@ -175,22 +175,22 @@ As of now by running the command `cargo run` you are going to see tomany errors,
 After adding all of this code in you repo, then try once again by running
 
 ```sh
-    cargo build
+cargo build
 ```
 
 and
 
 ```sh
-    cargo run
+cargo run
 ```
 
 I hope this will produce the output we discussed.
 
 # Changes I have did
 
-- After verifing my code hope you can find the updated syntax in my code.
-- In the `vga_buffer.rs` file observe line 22 and 26, I replaced black with 0 and red with 4. Thats how i solved this.
-- Keyboard port number
-- You can see that in `interrupts.rs` file I comment out the lift shift function, but observe the line 113 I changed the index from ARRAY_SIZE - i - 2 to i
+- After verifying my code, I hope you can find the updated syntax in it.
+- In the `vga_buffer.rs` file, observe lines `22` and `26`. I replaced `black` with `0` and `red` with `4`. That's how I resolved this issue.
+- Updated the keyboard port number.
+- In the `interrupts.rs` file, I commented out the `left shift` function. However, on line 113, I changed the index from `ARRAY_SIZE - i - 2` to `i`.
 
-This is how i solved this task...
+This is how I solved this task.
