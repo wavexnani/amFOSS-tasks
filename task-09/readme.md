@@ -144,7 +144,7 @@ First, we need to install Rust and Rustup, the toolchain installer for Rust.
    cargo run
    ```
 
-### Instructions
+## Instructions
 
 As of now by running the command `cargo run` you are going to see tomany errors, to resolve those errors you should follow this
 
