@@ -22,7 +22,7 @@ You can run and verify my code by following the instructions below. I have clear
 - After verifying my code, I hope you can find the updated syntax in it.
 - In the `vga_buffer.rs` file, observe lines `22` and `26`. I replaced `black` with `0` and `red` with `4`. That's how I resolved this issue.
 - Updated the keyboard port number.
-- In the `interrupts.rs` file, I commented out the `left shift` function. However, on line 113, I changed the index from `ARRAY_SIZE - i - 2` to `i`.
+- In the `interrupts.rs` file, I commented out the `left shift` function. However, on line [113](https://github.com/wavexnani/amFOSS-tasks/blob/main/task-09/src/interrupts.rs), I changed the [index](https://github.com/wavexnani/amFOSS-tasks/blob/main/task-09/src/interrupts.rs) from `ARRAY_SIZE - i - 2` to `i`.
 
 This is how I solved this task.
 
