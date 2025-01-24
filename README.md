@@ -31,7 +31,7 @@ I am very much interested in doing research in AI and also interested in playing
   | ---------------------------------------------------------------------- | ------------------------ | ------------------- |
   | [task-00](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-00) | Install Homebrew         | Completed           |
   | [task-01](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-01) | The Command Line Cup     | Completed           |
-  | task-02                                                                | Pixelated Problem Solver | Not Completed       |
+  | [task-02](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-02) | Pixelated Problem Solver | Completed           |
   | [task-03](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-03) | Beat the Buttons         | completed           |
   | task-04                                                                | Code the Puzzles         | partially completed |
   | [task-05](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-05) | Pokémon Rescue           | completed           |
