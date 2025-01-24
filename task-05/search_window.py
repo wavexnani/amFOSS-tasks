@@ -176,17 +176,20 @@ class Display(QWidget):
 
     def printing(self):
         
-        if 0<=self.i<=len(self.images)-1:
-            self.name.setText(self.images[self.i].capitalize().replace(".png", ""))
-            pixmap = QPixmap(f"captured_images/{self.images[self.i]}")
-            self.imagelable.setPixmap(pixmap)
-            self.imagelable.setScaledContents(True)
+        
+        self.name.setText(self.images[self.i].capitalize().replace(".png", ""))
+        pixmap = QPixmap(f"captured_images/{self.images[self.i]}")
+        self.imagelable.setPixmap(pixmap)
+        self.imagelable.setScaledContents(True)
 
 
     def next(self):
         
         if 0<=self.i<=len(self.images)-1:
             self.i+=1
+            self.printing()
+        elif self.i>len(self.images)-1:
+            self.i=len(self.images)-self.i
             self.printing()
 
 
@@ -195,7 +198,9 @@ class Display(QWidget):
         if 0<=self.i<=len(self.images)-1:
             self.i-=1
             self.printing()
-
+        elif self.i<0:
+            self.i=len(self.images)-1
+            self.printing()
 
         
         
