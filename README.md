@@ -37,5 +37,5 @@ I am very much interested in doing research in AI and also interested in playing
   | [task-05](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-05) | Pokémon Rescue           | completed           |
   | [task-06](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-06) | Flutter JumpStart        | Completed           |
   | [task-07](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-07) | Weather Guardian         | Completed           |
-  | [task-08](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-08) | Compute Shader           | Not Completed       |
+  | task-08                                                                | Compute Shader           | Not Completed       |
   | [task-09](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-09) | Operation Kernel         | Completed           |
