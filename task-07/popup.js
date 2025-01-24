@@ -48,7 +48,7 @@ function fetchWeatherData(cityName) {
 
 document .addEventListener("DOMContentLoaded",function() {
     fetchWeatherData(defaultCity);
-    document.getElementById("place").textContent = defaultCity;
+    document.getElementById("place").textContent = data.defaultCity;
     
 });
 
