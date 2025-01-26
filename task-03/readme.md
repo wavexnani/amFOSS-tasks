@@ -1,6 +1,6 @@
 # Beat The Buttons
 
-## how i did
+## How i did
 
 This task required integrating sound functionality into the buttons on a web page. To achieve this, I started by researching how to play audio using JavaScript. I explored different approaches, including the use of the HTML `<audio>` element and the JavaScript `Audio` object. After gaining an understanding of these techniques, I chose the `Audio` object for its simplicity and flexibility.
 
