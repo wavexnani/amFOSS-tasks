@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello everyone, I am Chandra Mouli from S1 (CSE Core). I am one of your first-year members.
+Hello everyone, I am Chandra Mouli from S2 (CSE Core). I am one of your first-year members.
 Myself, I am from Kadapa, Andhra Pradesh. I am totally new to coding and programming, but I still have full confidence that I'll overcome it as soon as possible.
-I am very much interested in doing research in AI and also interested in playing instruments and so on.
+I am very much interested in learning AI, Projects using 3D and also interested in playing instruments and so on.
 
 - ## Why should we choose you?
 
@@ -21,7 +21,7 @@ I am very much interested in doing research in AI and also interested in playing
 
 - ## What are your fields of interest, and how do you plan on working on them?
 
-  Actually, my field of interest is in AI.
+  Actually, my field of interest is in Development.
   I have many ideas and thoughts in my mind to implement, and I am planning to use my free hours in the morning and evening to improve my skills every day.
   I also want to excel in extracurricular activities too. I am confident that I will reach my goals and targets.
 
