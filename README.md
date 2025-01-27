@@ -35,7 +35,7 @@ I am very much interested in learning AI, Projects using 3D and also interested 
   | [task-03](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-03)     | Beat the Buttons         | completed           |
   | [task-04](https://www.hackerrank.com/contests/cp-praveshan-24/leaderboard) | Code the Puzzles         | partially completed |
   | [task-05](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-05)     | Pokémon Rescue           | completed           |
-  | [task-06](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-06)     | Flutter JumpStart        | Completed           |
+  | [task-06](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-06)     | Flutter JumpStart        | partially Completed |
   | [task-07](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-07)     | Weather Guardian         | Completed           |
   | [task-08](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-08)     | Compute Shader           | partially Completed |
   | [task-09](https://github.com/wavexnani/amFOSS-tasks/tree/main/task-09)     | Operation Kernel         | Completed           |
