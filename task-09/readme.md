@@ -15,7 +15,7 @@ You can run and verify my code by following the instructions below. I have clear
 
 ## My output:
 
-![output](https://github.com/wavexnani/amFOSS-tasks/blob/main/task-09/output.gif)
+![output](https://github.com/BiscuitBobby/ruskos-problem-repo/blob/main/output.gif)
 
 # Changes I have did
 
