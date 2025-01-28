@@ -144,7 +144,7 @@ class Display(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setFixedSize(380, 500)
+        self.setFixedSize(380,500)
 
         self.imagelable = QLabel(self)
         self.imagelable.setGeometry(50, 50, 280, 350)
@@ -201,6 +201,8 @@ class Display(QWidget):
         elif self.i<0:
             self.i=len(self.images)-1
             self.printing()
+
+
 
         
         
