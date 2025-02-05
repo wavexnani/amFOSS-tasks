@@ -1,6 +1,6 @@
-from PySide6.QtWidgets import QWidget, QLabel, QLineEdit, QPushButton, QMessageBox, QDialog, QVBoxLayout, QScrollArea, QHBoxLayout
-from PySide6.QtGui import QPixmap
-import requests 
+from PySide6.QtWidgets import QWidget, QLabel, QLineEdit, QPushButton, QMessageBox, QDialog, QVBoxLayout, QScrollArea, QHBoxLayout # type: ignore
+from PySide6.QtGui import QPixmap # type: ignore
+import requests  # type: ignore
 import os
 from PySide6.QtCore import Qt # type: ignore
 
