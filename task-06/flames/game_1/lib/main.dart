@@ -36,19 +36,19 @@ class Keys extends FlameGame with KeyboardEvents {
   }
 
   void moveUp() {
-    moveBackground(Vector2(0, 10));
+    moveBackground(Vector2(0, 20));
   }
 
   void moveDown() {
-    moveBackground(Vector2(0, -10));
+    moveBackground(Vector2(0, -20));
   }
 
   void moveLeft() {
-    moveBackground(Vector2(10, 0));
+    moveBackground(Vector2(20, 0));
   }
 
   void moveRight() {
-    moveBackground(Vector2(-10, 0));
+    moveBackground(Vector2(-20, 0));
   }
 
   // ...

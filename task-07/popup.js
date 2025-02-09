@@ -22,7 +22,7 @@ searchButton.addEventListener("click" ,function () {
 
 
 function fetchWeatherData(cityName) {
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=&units=metric`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=f89df2e3c2b6b5114a0882a50308f059&units=metric`)
     .then((response) => {
         if (!response.ok) {
             throw new Error("City not found.");
